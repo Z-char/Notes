@@ -23,3 +23,17 @@ $$
 
 ![[attachments/Drawing 2025-09-11 00.39.01.excalidraw]]
 成功解决！和题解是一样的结果！说明一般的一阶线性微分方程应该就可以这么解决吧？不过过程中有两个难点，首先就是积分因子，需要一次积分来计算，一般的函数未必有简明的积分形式，然后右边也需要积分一次，这些问题可能要哦，事实上，我们也需要处理其他问题，比如说，这个解就是所有解嘛？这将会在未来的学习中见到。
+
+upd: 2025-09-19
+> [!theorem] Existence and Uniqueness Theorem for first-order linear equations
+> If the functions $p$ and $g$ are continuous on an open interval $I:\alpha \lt t \lt \beta$ containing the point $t=t_{0}$, then there exists a unique function $y = \phi(t)$ that satisfied the differential equation.
+> $$
+> y' + p(t)y = g(t)
+> $$
+> for each $t$ in $I$, and that also satisfied the initial condition
+> $$
+> y(t_{0}) = y_{0}
+> $$
+> where $y_{0}$ is an arbitrary prescribed initial value.
+
+这里我暂时我不讨论证明，大抵会在未来学习（最近比较忙？要学一些东西和写一些项目，在学习进阶微分方程内容的时候会学习的，毕竟书里也说会在更进阶的课程探讨。

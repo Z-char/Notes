@@ -14,10 +14,10 @@
               "type": "pdf",
               "state": {
                 "file": "PDF/Elementary Differential Equations and Boundary Value -- William E_ Boyce, Richard C_ DiPrima, Douglas B_ Meade -- 12, PT, 2021 -- John Wiley & Sons, -- 9781119777670 -- ec7e09570313612f2aa60658e1663b05 -- Anna’s Ar.pdf",
-                "page": 45,
-                "left": -9,
-                "top": 81,
-                "zoom": 1.741007159452295
+                "page": 103,
+                "left": -4,
+                "top": 501,
+                "zoom": 1.9
               },
               "icon": "lucide-file-text",
               "title": "Elementary Differential Equations and Boundary Value -- William E_ Boyce, Richard C_ DiPrima, Douglas B_ Meade -- 12, PT, 2021 -- John Wiley & Sons, -- 9781119777670 -- ec7e09570313612f2aa60658e1663b05 -- Anna’s Ar"
@@ -26,21 +26,21 @@
         ]
       },
       {
-        "id": "0e3658f41cf2cfe7",
+        "id": "c971e79a9ac95187",
         "type": "tabs",
         "children": [
           {
-            "id": "8d3d3527f9692153",
+            "id": "42d23c9a5b474440",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "first-order linear differential equation practice.md",
+                "file": "first-order non-linear differential equation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "first-order linear differential equation practice"
+              "title": "first-order non-linear differential equation"
             }
           }
         ]
@@ -100,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8f28d05208a5262b",
@@ -172,13 +172,23 @@
               "icon": "lucide-list",
               "title": "Outline of first-order linear differential equation"
             }
+          },
+          {
+            "id": "6800b6d99f0ac30c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,34 +202,39 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d3d3527f9692153",
+  "active": "42d23c9a5b474440",
   "lastOpenFiles": [
+    "attachments/Pasted image 20250920000445.png",
+    "attachments/Pasted image 20250920000436.png",
+    "attachments/Pasted image 20250920000131.png",
+    "attachments/Pasted image 20250920000115.png",
+    "attachments/Pasted image 20250919233032.png",
+    "attachments/Pasted image 20250919232640.png",
+    "attachments/Pasted image 20250919231616.png",
+    "PDF/Elementary Differential Equations and Boundary Value -- William E_ Boyce, Richard C_ DiPrima, Douglas B_ Meade -- 12, PT, 2021 -- John Wiley & Sons, -- 9781119777670 -- ec7e09570313612f2aa60658e1663b05 -- Anna’s Ar.pdf",
+    "first-order non-linear differential equation.md",
+    "attachments/Pasted image 20250919224447.png",
+    "attachments/Pasted image 20250919224116.png",
+    "attachments/Pasted image 20250919223955.png",
+    "attachments/Pasted image 20250919223919.png",
+    "Math.md",
+    "Linear Algebra.md",
+    "first-order linear differential equation.md",
+    "first-order linear differential equation practice.md",
+    "Differential Equation.md",
     "PDF/Microelectronic Circuits (The Oxford Series in Electrical -- Adel S_ Sedra, Kenneth Carless Smith, Tony Chan Carusone, -- The Oxford Series In -- 9780190853204 -- 6f0e46fe435c70b7663da9b9e157a988 -- Anna’s Archive.pdf",
     "PDF/A First Course in the Numerical Analysis of Differential -- Arieh Iserles -- 1996 -- Cambridge University Press -- 8b1810654a4428ddfe8d8f23c52303af -- Anna’s Archive.pdf",
     "A First Course in the Numerical Analysis of Differential -- Arieh Iserles -- 1996 -- Cambridge University Press -- 8b1810654a4428ddfe8d8f23c52303af -- Anna’s Archive.pdf",
     "Microelectronic Circuits (The Oxford Series in Electrical -- Adel S_ Sedra, Kenneth Carless Smith, Tony Chan Carusone, -- The Oxford Series In -- 9780190853204 -- 6f0e46fe435c70b7663da9b9e157a988 -- Anna’s Archive.pdf",
-    "attachments/Pasted image 20250914222518.png",
-    "attachments/Pasted image 20250914222346.png",
-    "attachments/Pasted image 20250914221828.png",
-    "attachments/Pasted image 20250914221407.png",
-    "attachments/Pasted image 20250914221337.png",
-    "PDF/Elementary Differential Equations and Boundary Value -- William E_ Boyce, Richard C_ DiPrima, Douglas B_ Meade -- 12, PT, 2021 -- John Wiley & Sons, -- 9781119777670 -- ec7e09570313612f2aa60658e1663b05 -- Anna’s Ar.pdf",
-    "first-order linear differential equation practice.md",
-    "first-order linear differential equation.md",
-    "attachments/Pasted image 20250913221412.png",
-    "Differential Equation.md",
-    "Math.md",
-    "Linear Algebra.md",
     "Math]], [[Differential Equation.md",
     "attachments/Drawing 2025-09-11 00.39.01.excalidraw.md",
-    "attachments/Pasted image 20250911003553.png",
     "attachments/Drawing 2025-09-11 00.37.15.excalidraw.md",
     "Drawing 2025-09-11 00.36.04.excalidraw.md",
     "attachments",
-    "Pasted image 20250911003458.png",
     "新建 Text Document.txt",
     "PDF",
     "Excalidraw/Drawing 2025-09-10 23.14.09.excalidraw.md",

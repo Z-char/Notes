@@ -153,6 +153,7 @@
   },
   "excludedFiles": [
     "Differential Equation.md",
-    "first-order linear differential equation practice.md"
+    "first-order linear differential equation practice.md",
+    "first-order non-linear differential equation.md"
   ]
 }
