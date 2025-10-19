@@ -3,7 +3,7 @@ status: writing
 category:
   - math
   - differential equation
-  - solution report
+  - practice
 related_notes:
   - "[[first-order linear differential equation]]"
 ---
