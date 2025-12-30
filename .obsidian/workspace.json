@@ -14,33 +14,32 @@
               "type": "pdf",
               "state": {
                 "file": "PDF/Microelectronic Circuits (The Oxford Series in Electrical -- Adel S_ Sedra, Kenneth Carless Smith, Tony Chan Carusone, -- The Oxford Series In -- 9780190853204 -- 6f0e46fe435c70b7663da9b9e157a988 -- Anna’s Archive.pdf",
-                "page": 3,
-                "left": -502,
-                "top": 270,
-                "zoom": 1.1
+                "page": 319,
+                "left": -4,
+                "top": 555,
+                "zoom": 3.012507631424889
               },
               "icon": "lucide-file-text",
               "title": "Microelectronic Circuits (The Oxford Series in Electrical -- Adel S_ Sedra, Kenneth Carless Smith, Tony Chan Carusone, -- The Oxford Series In -- 9780190853204 -- 6f0e46fe435c70b7663da9b9e157a988 -- Anna’s Archive"
             }
           },
           {
-            "id": "2e46c29903a81671",
+            "id": "d5dad45a12bd54d5",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "PDF/Fundamentals of Electric Circuits -- Charles K_ Alexander, Matthew Sadiku, Charles; Sadiku, -- 6, 2016-01-13 -- McGraw-Hill School Education Group -- 9780078028229 -- 35e6bf8a0595988d38f4a6a8b7fa12a4 -- Anna’s Arch.pdf",
-                "page": 32,
-                "left": -128,
-                "top": 639,
-                "zoom": 1.9
+                "file": "PDF/Elementary Differential Equations and Boundary Value -- William E_ Boyce, Richard C_ DiPrima, Douglas B_ Meade -- 12, PT, 2021 -- John Wiley & Sons, -- 9781119777670 -- ec7e09570313612f2aa60658e1663b05 -- Anna’s Ar.pdf",
+                "page": 521,
+                "left": -93,
+                "top": 555,
+                "zoom": 2.7
               },
               "icon": "lucide-file-text",
-              "title": "Fundamentals of Electric Circuits -- Charles K_ Alexander, Matthew Sadiku, Charles; Sadiku, -- 6, 2016-01-13 -- McGraw-Hill School Education Group -- 9780078028229 -- 35e6bf8a0595988d38f4a6a8b7fa12a4 -- Anna’s Arch"
+              "title": "Elementary Differential Equations and Boundary Value -- William E_ Boyce, Richard C_ DiPrima, Douglas B_ Meade -- 12, PT, 2021 -- John Wiley & Sons, -- 9781119777670 -- ec7e09570313612f2aa60658e1663b05 -- Anna’s Ar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,20 +203,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e46c29903a81671",
+  "active": "836b7f48a9c4f65c",
   "lastOpenFiles": [
+    "PDF/Elementary Differential Equations and Boundary Value -- William E_ Boyce, Richard C_ DiPrima, Douglas B_ Meade -- 12, PT, 2021 -- John Wiley & Sons, -- 9781119777670 -- ec7e09570313612f2aa60658e1663b05 -- Anna’s Ar.pdf",
+    "Linear Algebra.md",
+    "PDF/AC.pdf",
+    "PDF/Principles of Electronic Materials and Devices (IRWIN -- Safa O_ Kasap, Prof_ -- 4, 2017 -- McGraw Hill -- 9780078028182 -- da0bc2f746d5e68c8d234c014f0daf51 -- Anna’s Archive.pdf",
+    "PDF/image.png",
+    "PDF/VLFDRjD04BxxAKQzi6sT23X6LTGWyTDBXH3YYZRUQJneicljJaAZYYC7Ne67uD8JudMeU0rsRRDr4rCV_3FpVT-CPxuz3wAzRDPSLAn3WDTUDpNS512l2LXdCCmWY9dDjbY9ysUNCJJlqrTaJVg-i0Ql5PdZ6P2LDdaAxBHvQOM4CAWhOhHwZH6nTMG6a7V8MiZPK5F.png",
+    "PDF/VLFDRjD04BxxAKQzi6sT23X6LTGWyTDBXH3YYZRUQJneicljJaAZYYC7Ne67uD8JudMeU0rsRRDr4rCV_3FpVT-CPxuz3wAzRDPSLAn3WDTUDpNS512l2LXdCCmWY9dDjbY9ysUNCJJlqrTaJVg-i0Ql5PdZ6P2LDdaAxBHvQOM4CAWhOhHwZH6nTMG6a7V8MiZPK5F.png.crdownload",
+    "first-order linear differential equation.md",
+    "PDF/Microelectronic Circuits (The Oxford Series in Electrical -- Adel S_ Sedra, Kenneth Carless Smith, Tony Chan Carusone, -- The Oxford Series In -- 9780190853204 -- 6f0e46fe435c70b7663da9b9e157a988 -- Anna’s Archive.pdf",
+    "PDF/Complex Analysis -- Stein, Elias M_ & Shakarchi, Rami -- Illustrated, 2010 -- Princeton University Press -- 9780691113852 -- 21da7e8b34f6d7ff5ae1780177fad02f -- Anna’s Archive.pdf",
+    "PDF/Fundamentals of Electric Circuits -- Charles K_ Alexander, Matthew Sadiku, Charles; Sadiku, -- 6, 2016-01-13 -- McGraw-Hill School Education Group -- 9780078028229 -- 35e6bf8a0595988d38f4a6a8b7fa12a4 -- Anna’s Arch.pdf",
+    "Differential Equations Practice.md",
+    "Vibration.md",
     "PDF/Probability_ Theory and Examples -- Rick Durrett -- 5, 2019 -- 4a2967993788b9e0a2e60a43458d7a89 -- Anna’s Archive.pdf",
     "PDF/Probability_ Theory and Examples -- Rick Durrett -- 5, 2019 -- 4a2967993788b9e0a2e60a43458d7a89 -- Anna’s Archive.pdf.crdownload",
     "PDF/A First Course in Probability, Global Edition -- Sheldon M_ Ross -- 10, 2019 -- Pearson Education, Limited -- 9780134753119 -- 6511a134ce712a1e632c2024c45a298c -- Anna’s Archive.pdf",
-    "PDF/A First Course in Probability, Global Edition -- Sheldon M_ Ross -- 10, 2019 -- Pearson Education, Limited -- 9780134753119 -- 6511a134ce712a1e632c2024c45a298c -- Anna’s Archive.pdf.crdownload",
-    "PDF/Fourier Analysis_ An Introduction (Princeton Lectures in -- Elias M_ Stein, Elias M_ M_ Stein, Rami Shakarchi -- Princeton Lectures in Analysis, 1, 1, -- 9780691113845 -- 3ecbd435917e414cb6aa7fd13add.pdf",
-    "PDF/Fourier Analysis_ An Introduction (Princeton Lectures in -- Elias M_ Stein, Elias M_ M_ Stein, Rami Shakarchi -- Princeton Lectures in Analysis, 1, 1, -- 9780691113845 -- 3ecbd435917e414cb6aa7fd13add.pdf.crdownload",
-    "PDF/Topology _ Pearson New International Edition -- Munkres, James R_ -- Pearson custom library, 2nd edition, new international ed, -- Pearson Education, -- 9781292023625 -- 2df6249dd0939624af29026dfa918.pdf",
-    "PDF/Topology _ Pearson New International Edition -- Munkres, James R_ -- Pearson custom library, 2nd edition, new international ed, -- Pearson Education, -- 9781292023625 -- 2df6249dd0939624af29026dfa918.pdf.crdownload",
-    "PDF/AC.pdf",
-    "PDF/AC.pdf.crdownload",
-    "PDF/Introductory Functional Analysis with Applications -- Erwin Kreyszig -- Wiley Classics Library, 1, 1989 -- John Wiley & Sons, Incorporated -- 9780471037293 -- 4bf619a633b163cb1b1ca2c8528c34cf -- Anna.pdf",
-    "Vibration.md",
     "attachments/Pasted image 20251017222504.png",
     "attachments/Pasted image 20251017222209.png",
     "attachments/Pasted image 20251017221212.png",
@@ -225,16 +229,11 @@
     "attachments/Pasted image 20251017215354.png",
     "attachments/Pasted image 20251017215218.png",
     "attachments/Pasted image 20251017214413.png",
-    "attachments/Pasted image 20251017214158.png",
-    "first-order linear differential equation.md",
     "first-order non-linear differential equation.md",
-    "Linear Algebra.md",
     "Differential Equation.md",
-    "Differential Equations Practice.md",
     "first-order linear differential equation practice.md",
     "Math.md",
     "Characteristic Equations - From ODEs to Recurrence Relations.md",
-    "attachments/Pasted image 20250920225735.png",
     "Math]], [[Differential Equation.md",
     "attachments/Drawing 2025-09-11 00.39.01.excalidraw.md",
     "attachments/Drawing 2025-09-11 00.37.15.excalidraw.md",
