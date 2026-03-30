@@ -4,39 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "17561a6c4e122bb5",
+        "id": "b496d6aaade5b5e1",
         "type": "tabs",
         "children": [
           {
-            "id": "836b7f48a9c4f65c",
+            "id": "a7d6dd73dc1f5b2e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDF/Microelectronic Circuits (The Oxford Series in Electrical -- Adel S_ Sedra, Kenneth Carless Smith, Tony Chan Carusone, -- The Oxford Series In -- 9780190853204 -- 6f0e46fe435c70b7663da9b9e157a988 -- Anna’s Archive.pdf",
-                "page": 319,
-                "left": -4,
-                "top": 555,
-                "zoom": 3.012507631424889
-              },
-              "icon": "lucide-file-text",
-              "title": "Microelectronic Circuits (The Oxford Series in Electrical -- Adel S_ Sedra, Kenneth Carless Smith, Tony Chan Carusone, -- The Oxford Series In -- 9780190853204 -- 6f0e46fe435c70b7663da9b9e157a988 -- Anna’s Archive"
-            }
-          },
-          {
-            "id": "d5dad45a12bd54d5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PDF/Elementary Differential Equations and Boundary Value -- William E_ Boyce, Richard C_ DiPrima, Douglas B_ Meade -- 12, PT, 2021 -- John Wiley & Sons, -- 9781119777670 -- ec7e09570313612f2aa60658e1663b05 -- Anna’s Ar.pdf",
-                "page": 521,
-                "left": -93,
-                "top": 555,
-                "zoom": 2.7
-              },
-              "icon": "lucide-file-text",
-              "title": "Elementary Differential Equations and Boundary Value -- William E_ Boyce, Richard C_ DiPrima, Douglas B_ Meade -- 12, PT, 2021 -- John Wiley & Sons, -- 9781119777670 -- ec7e09570313612f2aa60658e1663b05 -- Anna’s Ar"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -62,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -189,13 +167,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
@@ -203,24 +181,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "836b7f48a9c4f65c",
+  "active": "d39bfd3f5d37369d",
   "lastOpenFiles": [
+    "notes/Vibration.md",
+    "notes/Math.md",
+    "notes",
+    "projects",
+    "weekly",
+    "daily",
+    "notes/first-order non-linear differential equation.md",
     "PDF/Elementary Differential Equations and Boundary Value -- William E_ Boyce, Richard C_ DiPrima, Douglas B_ Meade -- 12, PT, 2021 -- John Wiley & Sons, -- 9781119777670 -- ec7e09570313612f2aa60658e1663b05 -- Anna’s Ar.pdf",
-    "Linear Algebra.md",
+    "notes/first-order linear differential equation.md",
+    "notes/first-order linear differential equation practice.md",
+    "notes/Differential Equations Practice.md",
+    "notes/Differential Equation.md",
+    "notes/Characteristic Equations - From ODEs to Recurrence Relations.md",
+    "PDF/Microelectronic Circuits (The Oxford Series in Electrical -- Adel S_ Sedra, Kenneth Carless Smith, Tony Chan Carusone, -- The Oxford Series In -- 9780190853204 -- 6f0e46fe435c70b7663da9b9e157a988 -- Anna’s Archive.pdf",
+    "notes/Linear Algebra.md",
     "PDF/AC.pdf",
     "PDF/Principles of Electronic Materials and Devices (IRWIN -- Safa O_ Kasap, Prof_ -- 4, 2017 -- McGraw Hill -- 9780078028182 -- da0bc2f746d5e68c8d234c014f0daf51 -- Anna’s Archive.pdf",
     "PDF/image.png",
     "PDF/VLFDRjD04BxxAKQzi6sT23X6LTGWyTDBXH3YYZRUQJneicljJaAZYYC7Ne67uD8JudMeU0rsRRDr4rCV_3FpVT-CPxuz3wAzRDPSLAn3WDTUDpNS512l2LXdCCmWY9dDjbY9ysUNCJJlqrTaJVg-i0Ql5PdZ6P2LDdaAxBHvQOM4CAWhOhHwZH6nTMG6a7V8MiZPK5F.png",
     "PDF/VLFDRjD04BxxAKQzi6sT23X6LTGWyTDBXH3YYZRUQJneicljJaAZYYC7Ne67uD8JudMeU0rsRRDr4rCV_3FpVT-CPxuz3wAzRDPSLAn3WDTUDpNS512l2LXdCCmWY9dDjbY9ysUNCJJlqrTaJVg-i0Ql5PdZ6P2LDdaAxBHvQOM4CAWhOhHwZH6nTMG6a7V8MiZPK5F.png.crdownload",
-    "first-order linear differential equation.md",
-    "PDF/Microelectronic Circuits (The Oxford Series in Electrical -- Adel S_ Sedra, Kenneth Carless Smith, Tony Chan Carusone, -- The Oxford Series In -- 9780190853204 -- 6f0e46fe435c70b7663da9b9e157a988 -- Anna’s Archive.pdf",
     "PDF/Complex Analysis -- Stein, Elias M_ & Shakarchi, Rami -- Illustrated, 2010 -- Princeton University Press -- 9780691113852 -- 21da7e8b34f6d7ff5ae1780177fad02f -- Anna’s Archive.pdf",
-    "PDF/Fundamentals of Electric Circuits -- Charles K_ Alexander, Matthew Sadiku, Charles; Sadiku, -- 6, 2016-01-13 -- McGraw-Hill School Education Group -- 9780078028229 -- 35e6bf8a0595988d38f4a6a8b7fa12a4 -- Anna’s Arch.pdf",
-    "Differential Equations Practice.md",
-    "Vibration.md",
-    "PDF/Probability_ Theory and Examples -- Rick Durrett -- 5, 2019 -- 4a2967993788b9e0a2e60a43458d7a89 -- Anna’s Archive.pdf",
-    "PDF/Probability_ Theory and Examples -- Rick Durrett -- 5, 2019 -- 4a2967993788b9e0a2e60a43458d7a89 -- Anna’s Archive.pdf.crdownload",
-    "PDF/A First Course in Probability, Global Edition -- Sheldon M_ Ross -- 10, 2019 -- Pearson Education, Limited -- 9780134753119 -- 6511a134ce712a1e632c2024c45a298c -- Anna’s Archive.pdf",
     "attachments/Pasted image 20251017222504.png",
     "attachments/Pasted image 20251017222209.png",
     "attachments/Pasted image 20251017221212.png",
@@ -229,11 +212,6 @@
     "attachments/Pasted image 20251017215354.png",
     "attachments/Pasted image 20251017215218.png",
     "attachments/Pasted image 20251017214413.png",
-    "first-order non-linear differential equation.md",
-    "Differential Equation.md",
-    "first-order linear differential equation practice.md",
-    "Math.md",
-    "Characteristic Equations - From ODEs to Recurrence Relations.md",
     "Math]], [[Differential Equation.md",
     "attachments/Drawing 2025-09-11 00.39.01.excalidraw.md",
     "attachments/Drawing 2025-09-11 00.37.15.excalidraw.md",
