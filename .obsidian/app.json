@@ -1,6 +1,6 @@
 {
   "promptDelete": false,
-  "vimMode": true,
+  "vimMode": false,
   "attachmentFolderPath": "attachments",
   "pdfExportSettings": {
     "includeName": true,
