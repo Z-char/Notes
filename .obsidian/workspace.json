@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/概率论.md",
+                "file": "notes/一类通用的变换思路.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "概率论"
+              "title": "一类通用的变换思路"
             }
           }
         ]
@@ -176,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,10 +196,12 @@
   },
   "active": "54dca6e9cea98fc6",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260604142624.png",
+    "notes/概率论.md",
+    "notes/一类通用的变换思路.md",
     "PDF/[[Stephen_H._Friedberg_Arnold_J._Insel_Lawrence_E] Linear algebra.pdf",
     "PDF/DurrettR2019Probabilitytheoryandexamples-2.pdf",
     "notes/Characteristic Equations - From ODEs to Recurrence Relations.md",
-    "notes/概率论.md",
     "notes/Vibration.md",
     "notes/Differential Equation.md",
     "notes/first-order linear differential equation practice.md",
@@ -225,7 +226,6 @@
     "projects",
     "weekly",
     "daily",
-    "PDF/Elementary Differential Equations and Boundary Value -- William E_ Boyce, Richard C_ DiPrima, Douglas B_ Meade -- 12, PT, 2021 -- John Wiley & Sons, -- 9781119777670 -- ec7e09570313612f2aa60658e1663b05 -- Anna’s Ar.pdf",
     "notes/Differential Equations Practice.md",
     "PDF/image.png",
     "PDF/VLFDRjD04BxxAKQzi6sT23X6LTGWyTDBXH3YYZRUQJneicljJaAZYYC7Ne67uD8JudMeU0rsRRDr4rCV_3FpVT-CPxuz3wAzRDPSLAn3WDTUDpNS512l2LXdCCmWY9dDjbY9ysUNCJJlqrTaJVg-i0Ql5PdZ6P2LDdaAxBHvQOM4CAWhOhHwZH6nTMG6a7V8MiZPK5F.png",
@@ -241,7 +241,6 @@
     "attachments/Drawing 2025-09-11 00.37.15.excalidraw.md",
     "Drawing 2025-09-11 00.36.04.excalidraw.md",
     "Excalidraw/Drawing 2025-09-10 23.14.09.excalidraw.md",
-    "Element.md",
-    "Drawing 2025-09-10 22.56.14.excalidraw.md"
+    "Element.md"
   ]
 }
